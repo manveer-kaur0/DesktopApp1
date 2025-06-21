@@ -1,3 +1,2 @@
 # DesktopApp1
-Create a desktop application using ElectronJS
-
+Create a desktop application using ElectronJS.
